@@ -1,7 +1,0 @@
-class BH_Element;
-class BH_Tree;
-class Binominal_heap;
-
-class BH_Element{
-
-}
